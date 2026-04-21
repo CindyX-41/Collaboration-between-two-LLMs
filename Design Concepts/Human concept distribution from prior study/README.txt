@@ -4,7 +4,8 @@ Collaboration between two LLMs for design concept generation.
 
 ## File Description
 
-This excel file "Human concept categores" contains the following columns:
+This excel file "Human concept categores" contains two sheets for two design problems.
+Each sheet includes the following columns:
 
 - Human participant label  
   Unique ID for each human designer (e.g., B1, B2, B3). Each participant may generate multiple concepts.
